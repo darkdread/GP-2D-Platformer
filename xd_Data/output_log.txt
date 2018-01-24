@@ -1,0 +1,39 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) R9 390 Series (ID=0x67b1)
+    Vendor:   ATI
+    VRAM:     8168 MB
+    Driver:   21.19.519.2
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\Sirenix.OdinInspector.Attributes.dll (this message is harmless)
+Loading E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\Sirenix.OdinInspector.Attributes.dll into Unity Child Domain
+Platform assembly: E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\Sirenix.Serialization.Config.dll (this message is harmless)
+Loading E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\Sirenix.Serialization.Config.dll into Unity Child Domain
+Platform assembly: E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\Sirenix.Serialization.dll (this message is harmless)
+Loading E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\Sirenix.Serialization.dll into Unity Child Domain
+Platform assembly: E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\Sirenix.Utilities.dll (this message is harmless)
+Loading E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\Sirenix.Utilities.dll into Unity Child Domain
+- Completed reload, in  3.093 seconds
+Platform assembly: E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\My things\My Work 2\Fuck Singapore Poly legit\DGDD Studio\GP\2D Platformer\xd_Data\Managed\Mono.Security.dll (this message is harmless)
+UnloadTime: 0.678901 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1c60 -> priority: 1 
+  Thread -> id: 3bb0 -> priority: 1 
+  Thread -> id: d58 -> priority: 1 
+  Thread -> id: aac -> priority: 1 

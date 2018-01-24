@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: d1e0b58f17a3def479fed5ef10c1f2f0
+timeCreated: 1508262560
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UnityChan_0
+    21300002: UnityChan_1
+    21300004: UnityChan_2
+    21300006: UnityChan_3
+    21300008: UnityChan_4
+    21300010: UnityChan_5
+    21300012: UnityChan_6
+    21300014: UnityChan_7
+    21300016: UnityChan_8
+    21300018: UnityChan_9
+    21300020: UnityChan_10
+    21300022: UnityChan_11
+    21300024: UnityChan_12
+    21300026: UnityChan_13
+    21300028: UnityChan_14
+    21300030: UnityChan_15
+    21300032: UnityChan_16
+    21300034: UnityChan_17
+    21300036: UnityChan_18
+    21300038: UnityChan_19
+    21300040: UnityChan_20
+    21300042: UnityChan_21
+    21300044: UnityChan_22
+    21300046: UnityChan_23
+    21300048: UnityChan_24
+    21300050: UnityChan_25
+    21300052: UnityChan_26
+    21300054: UnityChan_27
+    21300056: UnityChan_28
+    21300058: UnityChan_29
+    21300060: UnityChan_30
+    21300062: UnityChan_31
+    21300064: UnityChan_32
+    21300066: UnityChan_33
+    21300068: UnityChan_34
+    21300070: UnityChan_35
+    21300072: UnityChan_36
+    21300074: UnityChan_37
+    21300076: UnityChan_38
+    21300078: UnityChan_39
+    21300080: UnityChan_40
+    21300082: UnityChan_41
+    21300084: UnityChan_42
+    21300086: UnityChan_43
+    21300088: UnityChan_44
+    21300090: UnityChan_45
+    21300092: UnityChan_46
+    21300094: UnityChan_47
+    21300096: UnityChan_48
+    21300098: UnityChan_49
+    21300100: UnityChan_50
+    21300102: UnityChan_51
+    21300104: UnityChan_52
+    21300106: UnityChan_53
+    21300108: UnityChan_54
+    21300110: UnityChan_55
+    21300112: UnityChan_56
+    21300114: UnityChan_57
+    21300116: UnityChan_58
+    21300118: UnityChan_59
+    21300120: UnityChan_60
+    21300122: UnityChan_61
+    21300124: UnityChan_62
+    21300126: UnityChan_63
+    21300128: UnityChan_64
+    21300130: UnityChan_65
+    21300132: UnityChan_66
+    21300134: UnityChan_67
+    21300136: UnityChan_68
+    21300138: UnityChan_69
+    21300140: UnityChan_70
+    21300142: UnityChan_71
+    21300144: UnityChan_72
+    21300146: UnityChan_73
+    21300148: UnityChan_74
+    21300150: UnityChan_75
+    21300152: UnityChan_76
+    21300154: UnityChan_77
+    21300156: UnityChan_78
+    21300158: UnityChan_79
+    21300160: UnityChan_80
+    21300162: UnityChan_81
+    21300164: UnityChan_82
+    21300166: UnityChan_83
+    21300168: UnityChan_84
+    21300170: UnityChan_85
+    21300172: UnityChan_86
+    21300174: UnityChan_87
+    21300176: UnityChan_88
+    21300178: UnityChan_89
+    21300180: UnityChan_90
+    21300182: UnityChan_91
+    21300184: UnityChan_92
+    21300186: UnityChan_93
+    21300188: UnityChan_94
+    21300190: UnityChan_95
+    21300192: UnityChan_96
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 21
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnityChan_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 200
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 200
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 200
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 200
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 201
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 141
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 137
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 137
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 139
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 77
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 73
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 73
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 75
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 7
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 10
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 8
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 5
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnityChan_19
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 5
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
